@@ -148,6 +148,12 @@ section{
     font-weight: 800;
     margin-top: 10px;
 }
+.project-demo{
+    display: flex;
+    justify-content: space-between;
+    font-weight: 600;
+    margin-top: 10px;
+}
 .more-details{
     text-decoration: none;
     color: #df276b;
